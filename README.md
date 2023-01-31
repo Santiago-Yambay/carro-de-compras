@@ -1,5 +1,8 @@
-# Plicación creada con ReactJS
-
+# Aplicación creada con ReactJS
+Usando componentes basados en clase
+## Install dependencies
+Use 
+### `npm i`
 ## Available Scripts
 
 In the project directory, you can run:
